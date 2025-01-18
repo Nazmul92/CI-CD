@@ -25,5 +25,5 @@ jobs:
         run: |
           echo Hello World!
           echo Add other actions to build
-          eco test, and deploy your project.
+          echo test, and deploy your project.
 
